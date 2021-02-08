@@ -12,7 +12,7 @@ This is the demo STAR for beginners to make it easy for beginners to use STAR.
 
 **Step 1**, clone this demo respository, run
 
-```git clone https://github.com/niwakoki/demoSTAR```
+```git clone https://github.com/jligm-hash/demoSTAR```
 
 - After this step, you will see `demo` folder is inside the `demoSTAR` folder. Inside `demo` folder, there are `data` folder, `result` folder, `linuxOS` folder, `macOS` folder, `starLinux.sh`, `starMac.sh`.
 
