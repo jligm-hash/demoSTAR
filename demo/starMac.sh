@@ -13,9 +13,7 @@ myFileNamePrefix="./data/result/result."
 
 ${star} \
  --runThreadN 12 \
- --genomeSAindexNbases 11 \
  --genomeDir ${myGenomeDir} \
- --genomeFastaFiles ${myGenomeFastaFiles} \
  --sjdbGTFfile ${mySjdbGTFfile} \
  --sjdbOverhang 100 \
  --readFilesIn ${myFastqFile1} ${myFastqFile2} \
