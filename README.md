@@ -19,7 +19,7 @@ This is the demo STAR for beginners to make it easy for beginners to use STAR.
 **Step 2**, download the [genome folder](https://drive.google.com/drive/folders/1E_RJofRoUjM8AZc5CKcFLID7qXqLzozH?usp=sharing) we prepared for you and copy the `genome` folder (including the files in it) into the `data` folder.
 
 - After this step (downloading the files in genome folder), there should be `genome` folder, `RNAseq` folder and `result` folder inside the `data` folder. 
-The important files for your running should inside `genome` folder. They are `Genome`, `chrLength.txt`, `geneInfo.tab`, `chrName.txt`, `genomeParameters.txt`, `SA`, `chrNameLength.txt`, `sjdbInfo.txt`, `SAindex`, `chrStart.txt`, `sjdbList.fromGTF.out.tab`, `chr21.hg37.fa`, `exonGeTrInfo.tab`, `sjdbList.out.tab`, `chr21.hg37.gtf`, `exonInfo.tab`, `transcriptInfo.tab`.
+The important files for your running should inside `genome` folder and they are `Genome`, `chrLength.txt`, `geneInfo.tab`, `chrName.txt`, `genomeParameters.txt`, `SA`, `chrNameLength.txt`, `sjdbInfo.txt`, `SAindex`, `chrStart.txt`, `sjdbList.fromGTF.out.tab`, `chr21.hg37.fa`, `exonGeTrInfo.tab`, `sjdbList.out.tab`, `chr21.hg37.gtf`, `exonInfo.tab`, `transcriptInfo.tab`.
 
 - Pay attention to the name of `genome` folder. If its name is not `genome`, you may get the error and need to reverse the genome folder name in `starLinux.sh` or `starMac.sh`.
 
